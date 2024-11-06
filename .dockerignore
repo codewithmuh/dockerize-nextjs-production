@@ -1,0 +1,35 @@
+# Node modules
+node_modules
+
+# Build output
+.next
+out
+
+# Dependencies
+npm-debug.log
+yarn-error.log
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Logs
+logs
+*.log
+*.log.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Docker related files
+docker-compose.override.yml
+
+# IDE and editor specific files
+.vscode
+.idea
+*.sublime-workspace
+*.sublime-project
